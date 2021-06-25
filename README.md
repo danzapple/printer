@@ -1,11 +1,10 @@
 # thermal_printer_flutter
 
- 
-Flutter Thermal Printer Bluetooth Example 
+ Subscribe MY Youtube Channel
 
-[Youtube Link ](https://www.youtube.com/watch?v=ovTqwrV7JZI)
+[Youtube Link ](https://www.youtube.com/channel/UCWnNdUXkRCF4t5gVW8uoqzA)
 
-Flutter SDK 1.12.13+hotfix.7
+
 #
 ## Getting Started
 
