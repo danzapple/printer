@@ -6,22 +6,16 @@ class Home extends StatelessWidget {
   /// Example Data
   final List<Map<String, dynamic>> data = [
     {
-      'title': 'Produk 1',
+      'title': 'Produk Rifki',
       'price': 10000,
       'qty': 2,
       'total_price': 20000,
     },
     {
-      'title': 'Produk 2',
+      'title': 'Produk edi',
       'price': 20000,
       'qty': 2,
       'total_price': 40000,
-    },
-    {
-      'title': 'Produk 3',
-      'price': 12000,
-      'qty': 1,
-      'total_price': 12000,
     },
   ];
 

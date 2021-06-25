@@ -96,7 +96,7 @@ class _PrintState extends State<Print> {
     final Image image = decodeImage(bytes);
     ticket.image(image);
     ticket.text(
-      'TOKO KU',
+      'TOKO DANZ',
       styles: PosStyles(align: PosAlign.center,height: PosTextSize.size2,width: PosTextSize.size2),
       linesAfter: 1,
     );
